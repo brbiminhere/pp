@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>The Pet Programme</title>
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+
+  <body>
+    <center><h1>Ritual </h1>
+        <p>This is the ritual. It is an extremely important piece of this programme, because it is vital to getting to break your pet. </p>
+        <p>Everytime you see them, it is fundamental they repeat this ritual, so they get accustomed to being your pet. They should repeat, at least 5-10 times:</p>
+        <p>"I, <name>, am the <name you chose for your pet> and property of <your name>, <name you chose for yourself>."</p>
+        <p>Then kiss one of your shoes and start over.</p>
+        
+    </center>
+    <hr>
+    <center> <h3></h3>
+      <p></p>
+      <a href="step2.html">Step 4.</a>
+      </center>
